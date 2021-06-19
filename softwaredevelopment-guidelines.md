@@ -1,5 +1,5 @@
-The C0derulez
-=============
+Software-development Guidelines
+===============================
 
 The № 1 rule
 ------------
